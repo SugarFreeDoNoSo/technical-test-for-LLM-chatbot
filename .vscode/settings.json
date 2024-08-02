@@ -1,0 +1,17 @@
+{
+  "files.exclude": {
+    "**/dist": true,
+    "**/node_modules": true
+  },
+  "material-icon-theme.activeIconPack": "nest",
+  "rapidapi.terminalLink.enabled": false,
+  "rapidapi.hub.enabled": true,
+
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "files.eol": "\n",
+  "typescript.tsdk": "node_modules/typescript/lib",
+  "eslint.validate": ["javascript", "typescript"],
+  "prettier.requireConfig": true,
+  "prettier.tabWidth": 2
+}
